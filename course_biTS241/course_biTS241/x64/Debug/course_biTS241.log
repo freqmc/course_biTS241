@@ -1,0 +1,4 @@
+﻿  mon.c
+C:\Users\Administrator\source\repos\course_biTS241\mon.c(61,15): warning C4133: 'function': incompatible types - from 'unsigned short [8]' to 'const char *'
+C:\Users\Administrator\source\repos\course_biTS241\mon.c(61,27): warning C4133: 'function': incompatible types - from 'unsigned short [13]' to 'const char *'
+  course_biTS241.vcxproj -> C:\Users\Administrator\source\repos\course_biTS241\x64\Debug\course_biTS241.exe
